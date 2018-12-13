@@ -1,0 +1,6 @@
+*.xlsx
+*.docx
+*.tmp
+*.class
+/temp/
+/.metadata/
